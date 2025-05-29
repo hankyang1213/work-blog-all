@@ -908,7 +908,7 @@ template {
   border-radius: 40px;
 }
 .wrap .call {
-  width: 1296px;
+  width: 68%;
   margin: 0 auto;
 }
 .wrap .call h2 {
@@ -920,6 +920,7 @@ template {
   margin: 24px 0px;
 }
 .wrap .call ul li {
+  width: 100%;
   padding: 16px 0px;
   border-bottom: 1px solid black;
   display: flex;

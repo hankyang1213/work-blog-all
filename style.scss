@@ -520,7 +520,7 @@
         }        
     }
     .call{
-        width: 1296px;
+        width: 68%;
         margin: 0 auto;        
         h2{
             font-weight: 700;               
@@ -530,6 +530,7 @@
         ul{
             margin: 24px 0px;
             li{
+                width: 100%;
                 padding: 16px 0px;
                 border-bottom: 1px solid black;
                 display: flex;
